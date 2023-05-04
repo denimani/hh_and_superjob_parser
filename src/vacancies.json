@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Питон",
+    "url": "<https://hh.ru/vacancy/123456>",
+    "salary": "100 000-150 000 руб.",
+    "description": "Требования: опыт работы от 3 до 5 лет..."
+  },
+  {
+    "name": "Python Developer",
+    "url": "<https://hh.ru/vacancy/123457>",
+    "salary": "100 000-150 000 руб.",
+    "description": "Требования: опыт работы от 3 лет..."
+  },
+  {
+    "name": "Джава",
+    "url": "<https://hh.ru/vacancy/123412>",
+    "salary": "100 000-150 000 руб.",
+    "description": "Требования: опыт работы от 1 года..."
+  }
+]
